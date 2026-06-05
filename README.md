@@ -1,6 +1,6 @@
 # LeetCode Legends
 
-I built this because I wanted a better way to track my LeetCode progress than a spreadsheet. It syncs your submissions from LeetCode, tracks what you're bad at, tells you what to review, and has an AI tutor that actually knows your history.
+I built this because I wanted a better way to track my LeetCode progress than a spreadsheet. It syncs your submissions from LeetCode, tracks what you're bad at, tells you what to review, and has an AI tutor that knows your history.
 
 ## Features
 
